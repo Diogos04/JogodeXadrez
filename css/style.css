@@ -27,3 +27,7 @@ h1{
 .dark{
     background-color: #0047ab ;
 }
+
+.selected {
+    border: 3px solid yellow;
+}
