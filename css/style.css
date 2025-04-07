@@ -1,9 +1,9 @@
-table{
+table {
     border-collapse: collapse;
     margin: auto;
 }
 
-td{
+td {
     width: 60px;
     height: 60px;
     text-align: center;
@@ -11,21 +11,21 @@ td{
     font-weight: bold;
 }
 
-tr{
+tr {
     background-color: rgb(222, 221, 223);
 }
 
-h1{
+h1 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.ligth{
-    background-color:  #3d3d3d ;
+.ligth {
+    background-color: #3d3d3d;
 }
 
-.dark{
-    background-color: #0047ab ;
+.dark {
+    background-color: #0047ab;
 }
 
 .selected {
